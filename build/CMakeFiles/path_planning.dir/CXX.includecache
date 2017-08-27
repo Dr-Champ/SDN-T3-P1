@@ -775,10 +775,34 @@ lapacke_mangling.h
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/PathPlanner.cpp
 PathPlanner.h
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/PathPlanner.h
+Util.h
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Util.h
+iostream
+-
+spline.h
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/spline.h
 
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/PathPlanner.h
 vector
 -
+
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Util.cpp
+Util.h
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Util.h
+iostream
+-
+
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Util.h
+math.h
+-
+vector
+-
+Eigen-3.3/Eigen/Core
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Eigen-3.3/Eigen/Core
+Eigen-3.3/Eigen/QR
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/Eigen-3.3/Eigen/QR
+PathPlanner.h
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/PathPlanner.h
 
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/json.hpp
 algorithm
@@ -859,6 +883,16 @@ json.hpp
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/json.hpp
 PathPlanner.h
 /Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/PathPlanner.h
+
+/Users/Champ/workspace/Python/UdacitySelfDrivingCar/Term3/CarND-Path-Planning-Project-master/src/spline.h
+cstdio
+-
+cassert
+-
+vector
+-
+algorithm
+-
 
 /usr/local/include/pthread-barrier.h
 errno.h
